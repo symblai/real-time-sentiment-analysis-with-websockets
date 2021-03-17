@@ -10,8 +10,8 @@ var openSocket = async function() {
   //   },
   //   body: JSON.stringify({
   //     'type': 'application',
-  //     'appId': '45543048764a523037443133366134534563596d614957614f47445477576a30',
-  //     'appSecret': '394b556959595830425455796276513656377464326538426875614b37554d4f56634e764a395f5248504b5f67396c6c4563754338504353587652507a54496d',
+  //     'appId': '',
+  //     'appSecret': '',
   //   })
   // }
   // const res = await fetch("https://api.symbl.ai/oauth2/token:generate", fetchData);
