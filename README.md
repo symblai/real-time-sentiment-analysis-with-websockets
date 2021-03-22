@@ -37,7 +37,7 @@ To run the app, you have to ensure that you encounter neither an error with CORS
 
  After creating the local server, you press the button to initiate the WebSocket connection. Begin speaking. With the WebSocket connection established, your console should log events for messages. As these messages are logged, a table populates with the message IDs with their corresponding values for polarity. 
 
-![log](./screenshots/Screen Shot 2021-03-15 at 8.52.07 PM.png)
+![log](./screenshots/real-time-sentiment-logs.png)
 
 ## Conclusion 
 
